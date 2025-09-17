@@ -3,7 +3,6 @@
 session_start();
 
 
-// Simple user store (for the project). You can replace with database later.
 $users = [
 'ahmedzoghla19@gmail.com' => '1892004'
 ];
